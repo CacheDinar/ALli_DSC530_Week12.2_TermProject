@@ -1,1 +1,1 @@
-# ALli_DSC530_Week12.2_TermProject
+# Ali_DSC530_Week12.2_TermProject
